@@ -1,0 +1,8 @@
+C:\Test\movie_api\Movie-Api_Solution\Movie.Api.Library\bin\Debug\netcoreapp3.1\MovieApiLibrary.deps.json
+C:\Test\movie_api\Movie-Api_Solution\Movie.Api.Library\bin\Debug\netcoreapp3.1\MovieApiLibrary.dll
+C:\Test\movie_api\Movie-Api_Solution\Movie.Api.Library\bin\Debug\netcoreapp3.1\MovieApiLibrary.pdb
+C:\Test\movie_api\Movie-Api_Solution\Movie.Api.Library\obj\Debug\netcoreapp3.1\MovieApiLibrary.AssemblyInfoInputs.cache
+C:\Test\movie_api\Movie-Api_Solution\Movie.Api.Library\obj\Debug\netcoreapp3.1\MovieApiLibrary.AssemblyInfo.cs
+C:\Test\movie_api\Movie-Api_Solution\Movie.Api.Library\obj\Debug\netcoreapp3.1\MovieApiLibrary.csproj.CoreCompileInputs.cache
+C:\Test\movie_api\Movie-Api_Solution\Movie.Api.Library\obj\Debug\netcoreapp3.1\MovieApiLibrary.dll
+C:\Test\movie_api\Movie-Api_Solution\Movie.Api.Library\obj\Debug\netcoreapp3.1\MovieApiLibrary.pdb

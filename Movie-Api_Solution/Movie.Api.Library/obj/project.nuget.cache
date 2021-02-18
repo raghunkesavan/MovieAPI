@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "TQHbZIY7EQ6SvvIfZkf8inSyV4kWtUgdsdPIJsG222PVlCfn78u+z7sJNJD1G+LudcyxvtM/H0tgbZab88cDBg==",
+  "success": true,
+  "projectFilePath": "C:\\Test\\movie_api\\Movie-Api_Solution\\Movie.Api.Library\\MovieApiLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\raghu\\.nuget\\packages\\csvhelper\\23.0.0\\csvhelper.23.0.0.nupkg.sha512",
+    "C:\\Users\\raghu\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\raghu\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\5.0.0\\microsoft.extensions.caching.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\raghu\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\5.0.0\\microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\raghu\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512",
+    "C:\\Users\\raghu\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
